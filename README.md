@@ -16,6 +16,6 @@ BRANCHING FROM VSC TERMINAL
 
 GIT BRANCH <branch name> ………… Create a new branch
 GIT CHECKOUT <branch name> ….... Switch branch
-GIT ADD ▪ ………………………………………. Add all to new branch expect for deleted files
+GIT ADD ▪ ………………………………………. Add all to new branch exept for deleted files
 GIT COMMIT
 GIT PUSH ORIGIN <branch name> …. Push to new branch
